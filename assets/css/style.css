@@ -1,0 +1,161 @@
+.nav li{
+    color: black;
+    padding: 1.5rem;
+}
+.right{
+   padding: 1rem;
+   display: flex;
+}
+#first{
+    margin-top: 3rem;
+}
+#first h1{
+    text-align: center;
+    font-weight: 900;
+    
+}
+#first p{
+    margin-top: 1rem;
+    font-size: x-large;
+    text-align: center;
+}
+#first .buttons{
+    margin-top: 2rem;
+    text-align: center;
+    padding: 1rem;
+  
+}
+#two h1{
+    margin-top: 10rem;
+    text-align: center;
+}
+#two p{
+    margin-top: 1rem;
+    text-align: center;
+}
+#two .icon i{
+    border: 2px solid black;
+    width: 35px;
+    height: 35px;
+    margin-top: 2rem;
+    font-weight: 500;
+    font-size: xx-large;
+    color: rebeccapurple;
+}
+#two h3{
+    margin-top: 2rem;
+}
+#two .menu{
+    display: flex;
+}
+#two .menu2{
+    display: flex;
+}
+#three{
+    margin-top: 7rem;
+    background-image: url(../img/section-three/shape.svg);
+}
+#three h1{
+    text-align: center;
+}
+#three p{
+    text-align: center;
+}
+#three .img{
+    text-align: center;
+    margin-top: 3rem;
+}
+#four{
+    margin-top: 7rem;
+}
+#four .accepts{
+    display: flex;
+}
+#four .accepts .accept .con{
+    margin-top: 1.2rem;
+    display: flex;
+}
+#four .accepts .accept2 .con{
+    margin-top: 1.2rem;
+    display: flex;
+}
+
+#four .accepts .accept2{
+    margin-left: 5rem;
+}
+#four .features{
+    display: flex;
+}
+#four .two{
+    margin-top :3rem;
+    display: flex;
+}
+#four .title{
+    margin-top: 3rem;
+}
+#five{
+    margin-top: 5rem;
+}
+#five h1{
+    text-align: center;
+}
+#five p{
+    text-align: center;
+}
+#five .card1{
+    
+    margin-top: 4rem;
+}
+#five .card1 .star{
+    color: gold;
+}
+#five .card1 p{
+    margin-top: 2rem;
+}
+#five .author{
+    display: flex;
+}
+#five .author img{
+    width: 50px;
+    height: 50px;
+}
+#five .author .title{
+    margin-left:2rem;
+}
+#five .cart {
+    margin-left: 1rem;
+    display: flex;
+}
+#six{
+    margin-top:7rem ;
+
+}
+#six h1{
+    text-align: center;
+}
+#six p{
+    text-align: center;
+}
+#six .button{
+   text-align: center;
+}
+#six .card h2{
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+#six .card .con{
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+#end{
+    margin-top: 7rem;
+}
+#end p{
+    margin-top: 1rem;
+}
+#end form{
+    margin-top: 2rem;
+}
+#end .query{
+    display: flex;
+}
